@@ -14,6 +14,7 @@ I help non-technical vibecoders make better apps: tools that show you what AI bu
 
 | | |
 |---|---|
+| **Oct 28** | [Floorplan 0.1.5](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.1.5): a 40-test suite running on every push, a hardened map server, and more accurate security checks on FastAPI, thanks to [@PaulMagos](https://github.com/PaulMagos) again |
 | **Oct 28** | [Floorplan 0.1.4](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.1.4): maps render in Safari, and far fewer false security alarms on FastAPI backends. Thanks [@fpv001](https://github.com/fpv001) and [@PaulMagos](https://github.com/PaulMagos), my first contributors 🙌 |
 | **Oct 28** | Floorplan 0.1.3: maps work fully offline, with no outside requests |
 | **Oct 27** | Floorplan 0.1.2: the Floorplan Cloud waitlist, for shared team maps |
