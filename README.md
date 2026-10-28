@@ -8,7 +8,7 @@ I help non-technical vibecoders make better apps: tools that show you what AI bu
 
 **[Floorplan](https://github.com/haydenschmitty/floorplan)**: see how your app actually fits together. A Claude Code plugin that maps your whole codebase into an interactive, plain-English floorplan, with a health check that flags exposed API keys and endpoints anyone can change. Free and open source.
 
-[![Stars](https://img.shields.io/github/stars/haydenschmitty/floorplan?style=flat-square&color=111)](https://github.com/haydenschmitty/floorplan/stargazers) [![Latest release](https://img.shields.io/github/v/release/haydenschmitty/floorplan?style=flat-square&color=111&label=latest)](https://github.com/haydenschmitty/floorplan/releases/latest) [![Watch the walkthrough](https://img.shields.io/badge/watch-the%20walkthrough-111?style=flat-square&logo=youtube)](https://youtu.be/NTUUzC7L_NQ)
+[![Stars](https://img.shields.io/github/stars/haydenschmitty/floorplan?style=flat-square&color=111)](https://github.com/haydenschmitty/floorplan/stargazers) [![Latest release](https://img.shields.io/github/v/release/haydenschmitty/floorplan?style=flat-square&color=111&label=latest&display_name=release)](https://github.com/haydenschmitty/floorplan/releases/latest) [![Watch the walkthrough](https://img.shields.io/badge/watch-the%20walkthrough-111?style=flat-square&logo=youtube)](https://youtu.be/NTUUzC7L_NQ)
 
 ## 🚢 Shipping log
 
