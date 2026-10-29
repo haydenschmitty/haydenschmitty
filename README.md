@@ -14,6 +14,8 @@ I help non-technical vibecoders make better apps: tools that show you what AI bu
 
 | | |
 |---|---|
+| **Oct 28** | [Floorplan 0.2.2](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.2.2): light mode, with a Theme button that follows your device. Built by [@menachem-kurkus](https://github.com/menachem-kurkus) in their first ever pull request 🙌 |
+| **Oct 28** | [Floorplan 0.2.1](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.2.1): Firebase apps map end to end, with Cloud Functions shown as endpoints and linked to the pages that call them. Thanks [@omardlr-aviv](https://github.com/omardlr-aviv) for the report |
 | **Oct 28** | [Floorplan 0.2.0](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.2.0): now works in Codex too, on your ChatGPT sign-in with no API keys, installed from the Codex app in a few clicks. The [live demo](https://haydenschmitty.github.io/floorplan-demo/) switches between Claude Code and Codex |
 | **Oct 28** | [Floorplan 0.1.5](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.1.5): a 40-test suite running on every push, a hardened map server, and more accurate security checks on FastAPI, thanks to [@PaulMagos](https://github.com/PaulMagos) again |
 | **Oct 28** | [Floorplan 0.1.4](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.1.4): maps render in Safari, and far fewer false security alarms on FastAPI backends. Thanks [@fpv001](https://github.com/fpv001) and [@PaulMagos](https://github.com/PaulMagos), my first contributors 🙌 |
