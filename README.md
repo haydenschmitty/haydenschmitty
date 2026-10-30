@@ -14,6 +14,7 @@ I help non-technical vibecoders make better apps: tools that show you what AI bu
 
 | | |
 |---|---|
+| **Oct 30** | [Floorplan 0.3.2](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.3.2): a security fix. The map's local server now answers only to your own computer, so a website can't reach it by pointing its domain at 127.0.0.1 |
 | **Oct 30** | [Floorplan 0.3.1](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.3.1): fixes for Windows npm installs, FastAPI routers and big files, and no more false alarms for analytics tokens. Thanks [@menachem-kurkus](https://github.com/menachem-kurkus), [@stevensiht](https://github.com/stevensiht), [@CplSyx](https://github.com/CplSyx) and [@Rasherb69](https://github.com/Rasherb69) |
 | **Oct 29** | [Floorplan 0.3.0](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.3.0): blueprints. No code yet? Share a PRD or spec and get the map of everything you'd need to build, with a review of the decisions still open, then reshape it right on the map ("also plan out refunds") |
 | **Oct 28** | [Floorplan 0.2.2](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.2.2): light mode, with a Theme button that follows your device. Built by [@menachem-kurkus](https://github.com/menachem-kurkus) in their first ever pull request 🙌 |
