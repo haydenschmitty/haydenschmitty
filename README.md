@@ -14,6 +14,7 @@ I help non-technical vibecoders make better apps: tools that show you what AI bu
 
 | | |
 |---|---|
+| **Oct 30** | [Floorplan 0.4.2](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.4.2): [is it safe to install?](https://github.com/haydenschmitty/floorplan/blob/main/docs/is-it-safe.md) No hooks, MCP servers, dependencies or downloads, checked by a test on every change and by GitHub's code scanner, with fingerprints so you can verify your copy |
 | **Oct 30** | [Floorplan 0.4.1](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.4.1): exported maps carry a small "Made with Floorplan" link, so anyone you send one to can make their own |
 | **Oct 30** | [Floorplan 0.4.0](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.4.0): Export. Send anyone a copy of your map as one HTML file that opens in any browser, with nothing to install. You choose whether flows, recent work or the health check go in |
 | **Oct 30** | [Floorplan 0.3.2](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.3.2): a security fix. The map's local server now answers only to your own computer, so a website can't reach it by pointing its domain at 127.0.0.1 |
