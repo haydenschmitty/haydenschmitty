@@ -14,6 +14,7 @@ I help non-technical vibecoders make better apps: tools that show you what AI bu
 
 | | |
 |---|---|
+| **Oct 31** | [Floorplan 0.6.0](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.6.0): Health catches the classic mistakes in AI-built apps: secret keys sent to the browser, Supabase tables anyone can read, open Firebase rules, Stripe webhooks anyone could fake, and servers any website can call. Each with a fix to paste |
 | **Oct 31** | [Floorplan 0.5.0](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.5.0): works on phones and tablets. The top bar fits, details open as a sheet when you tap a box, and you can drag and pinch the map. The [live demo](https://haydenschmitty.github.io/floorplan-demo/) works on your phone now too. Built by [@menachem-kurkus](https://github.com/menachem-kurkus) 🙌 |
 | **Oct 31** | [Floorplan 0.4.4](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.4.4): the note that points future Claude Code sessions at the map is now added only if you say yes |
 | **Oct 31** | [Floorplan 0.4.3](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.4.3): links for the Claude plugin directory, where Floorplan is now in review |
