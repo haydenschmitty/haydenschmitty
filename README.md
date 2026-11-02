@@ -14,6 +14,7 @@ I help non-technical vibecoders make better apps: tools that show you what AI bu
 
 | | |
 |---|---|
+| **Nov 2** | [Floorplan 0.6.2](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.6.2): far fewer false alarms in Health, from 15 user reports. Public feeds, llms.txt, Payload CMS and browser tracker tokens no longer read as problems. Thanks [@samuelpullen15-droid](https://github.com/samuelpullen15-droid), [@rudycelekli](https://github.com/rudycelekli) and [@Bl0ck154](https://github.com/Bl0ck154). |
 | **Nov 1** | [Floorplan 0.6.1](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.6.1): fewer false alarms in Health, from user feedback. Password hashes and encrypted backups aren't flagged any more, and you can mark anything else as "Not a problem", with an optional report. |
 | **Oct 31** | [Floorplan 0.6.0](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.6.0): Health catches the classic mistakes in AI-built apps: secret keys sent to the browser, Supabase tables anyone can read, open Firebase rules, Stripe webhooks anyone could fake, and servers any website can call. Each with a fix to paste |
 | **Oct 31** | [Floorplan 0.5.0](https://github.com/haydenschmitty/floorplan/releases/tag/floorplan--v0.5.0): works on phones and tablets. The top bar fits, details open as a sheet when you tap a box, and you can drag and pinch the map. The [live demo](https://haydenschmitty.github.io/floorplan-demo/) works on your phone now too. Built by [@menachem-kurkus](https://github.com/menachem-kurkus) 🙌 |
